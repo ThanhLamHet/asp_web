@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\test\\BaiTap03\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BaiTap03.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BaiTap03.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BaiTap03.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BaiTap03.props",
+      "PackagePath": "build\\BaiTap03.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BaiTap03.props",
+      "PackagePath": "buildMultiTargeting\\BaiTap03.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BaiTap03.props",
+      "PackagePath": "buildTransitive\\BaiTap03.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
