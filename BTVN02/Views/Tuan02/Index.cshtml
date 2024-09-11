@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<header>
+    <h2>BÀI TẬP</h2>
+</header>
+
+<section>
+    
+    <nav>
+        <ul>
+            <li><a href="~/profile">Profile</a></li>
+            <li>@ViewBag.HoTen</li>
+            <li>@ViewBag.MSSV</li>
+            <li>@ViewBag.Nam</li>
+        </ul>
+    </nav>
+
+    <article>
+        
+        
+        
+        <a href="~/profile">
+            <img src="~/image/anh.jpg" style="width:120px;" />
+        </a>
+        <p>Thanh Làm Hết</p>
+    </article>
+</section>
+
+<footer>
+    <p>Copyright &copy; Thanh Làm Hết - @DateTime.Now.Year</p>
+</footer>
+
+
+
