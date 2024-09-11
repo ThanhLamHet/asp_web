@@ -940,11 +940,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\LTW\\BaiTap01\\BaiTap01.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\asp_web\\BaiTap01\\BaiTap01.csproj",
       "projectName": "BaiTap01",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\LTW\\BaiTap01\\BaiTap01.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\asp_web\\BaiTap01\\BaiTap01.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\LTW\\BaiTap01\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\asp_web\\BaiTap01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

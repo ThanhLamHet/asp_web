@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\LTW\\BaiTap02\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\asp_web\\BaiTap02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A3E0076-8686-4846-AC50-43A15F1F8E4C}|BaiTap02.csproj|c:\\users\\admin\\desktop\\ltw\\baitap02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8A3E0076-8686-4846-AC50-43A15F1F8E4C}|BaiTap02.csproj|c:\\users\\admin\\documents\\github\\asp_web\\baitap02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A3E0076-8686-4846-AC50-43A15F1F8E4C}|BaiTap02.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A3E0076-8686-4846-AC50-43A15F1F8E4C}|BaiTap02.csproj|c:\\users\\admin\\desktop\\ltw\\baitap02\\baitap02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8A3E0076-8686-4846-AC50-43A15F1F8E4C}|BaiTap02.csproj|solutionrelative:baitap02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BaiTap02",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTW\\BaiTap02\\BaiTap02.csproj",
-              "RelativeDocumentMoniker": "BaiTap02.csproj",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTW\\BaiTap02\\BaiTap02.csproj",
-              "RelativeToolTip": "BaiTap02.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-26T03:28:17.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTW\\BaiTap02\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\asp_web\\BaiTap02\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTW\\BaiTap02\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\asp_web\\BaiTap02\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T03:24:07.513Z",
+              "WhenOpened": "2024-08-26T06:16:32.972Z",
               "EditorCaption": ""
             }
           ]
