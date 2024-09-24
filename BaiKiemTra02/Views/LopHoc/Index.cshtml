@@ -1,0 +1,42 @@
+﻿@model IEnumerable<BaiKiemTra02.Models.LopHoc>
+
+@{
+    ViewData["Title"] = "Danh sách Lớp Học";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Index" method="get">
+    <input type="text" name="searchString" placeholder="Tìm kiếm lớp học..." />
+    <input type="submit" value="Tìm kiếm" />
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tên Lớp Học</th>
+            <th>Năm Nhập Học</th>
+            <th>Năm Ra Trường</th>
+            <th>Số Lượng Sinh Viên</th>
+            <th>Chức Năng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.TenLopHoc</td>
+                <td>@item.NamNhapHoc</td>
+                <td>@item.NamRaTruong</td>
+                <td>@item.SoLuongSinhVien</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Sửa</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Xóa</a> |
+                    <a asp-action="Detail" asp-route-id="@item.Id">Chi tiết</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Thêm Mới</a>
